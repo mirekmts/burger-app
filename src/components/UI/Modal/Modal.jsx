@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 
 import classes from './Modal.css';
-import AuxW from '../../../hoc/AuxW';
+import AuxW from '../../../hoc/AuxW/AuxW';
 import Backdrop from '../Backdrop/Backdrop';
 
 
